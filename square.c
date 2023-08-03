@@ -1,3 +1,4 @@
+// Write a program to calculate area of a square
 #include <stdio.h>
 // area of square in integer
 int main()
