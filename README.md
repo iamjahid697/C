@@ -1,2 +1,2 @@
-# check
 # C
+# Learning of C programming
